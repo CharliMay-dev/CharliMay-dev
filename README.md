@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Charli May
 
-<!--
-**CharliMay-dev/CharliMay-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 5.º semestre de Ingeniería en Sistemas.
 
-Here are some ideas to get you started:
+Desarrollador junior en formación, interesado en programación, bases de datos y desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+* Python
+* SQL
+* MySQL
+* HTML
+* CSS
+* Git & GitHub
+
+## Actualmente aprendiendo
+
+* Desarrollo de software
+* Diseño y administración de bases de datos
+* Programación con Python
+* Desarrollo web
+
+## Sobre mí
+
+Me interesa especialmente el área de bases de datos y programación. Actualmente estoy construyendo proyectos académicos y personales para fortalecer mis conocimientos y comenzar mi experiencia profesional como desarrollador junior.
+
+## Proyectos
+
+Estoy construyendo mi portafolio con proyectos de programación, bases de datos y desarrollo web.
+
+## Contacto
+
+* Workana: próximamente
